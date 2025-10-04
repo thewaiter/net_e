@@ -1,0 +1,70 @@
+# Slovakian translation for the Net Module.
+# This file is put in the public domain.
+#
+# helix84, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: net\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2025-01-20 12:05-0500\n"
+"PO-Revision-Date: 2009-03-24 13:41+0000\n"
+"Last-Translator: helix84 <Unknown>\n"
+"Language-Team: Slovakian\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/e_mod_configure.c:44
+msgid "Net Module Settings"
+msgstr "Konfigurácia modulu Sieť"
+
+#: src/e_mod_configure.c:116
+msgid "General Settings"
+msgstr "Všeobecné nastavenia"
+
+#: src/e_mod_configure.c:117
+msgid "Show Text"
+msgstr "Zobraziť text"
+
+#: src/e_mod_configure.c:119
+msgid "Show Popup On Mouse-Over"
+msgstr "Zobraziť vyskakovacie okno po prejdení myšou"
+
+#: src/e_mod_configure.c:121
+msgid "Launch Application On Double-Click"
+msgstr "Spustiť aplikáciu po dvojitom kliknutí"
+
+#: src/e_mod_configure.c:127
+msgid "Activity Notification Level"
+msgstr "Úroveň upozorňovania na aktivitu"
+
+#: src/e_mod_configure.c:129
+msgid "High (MB)"
+msgstr "Vysoká (MB)"
+
+#: src/e_mod_configure.c:131
+msgid "Middle (KB)"
+msgstr "Stredná (KB)"
+
+#: src/e_mod_configure.c:133
+msgid "Low (B)"
+msgstr "Nízka (B)"
+
+#: src/e_mod_configure.c:139
+msgid "Device Settings"
+msgstr "Nastavenia zariadenia"
+
+#: src/e_mod_gadcon.c:96
+msgid "Net"
+msgstr "Sieť"
+
+#: src/e_mod_net.c:161
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: src/e_mod_net.c:195
+#, c-format
+msgid "Device - %s"
+msgstr "Zariadenie - %s"
